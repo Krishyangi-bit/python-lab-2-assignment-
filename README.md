@@ -1,3 +1,3 @@
-# python-lab-3-assignment-
+# python-lab-2-assignment-
 
 files are in the master branch 
