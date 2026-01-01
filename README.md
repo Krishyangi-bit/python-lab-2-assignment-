@@ -109,24 +109,3 @@ Raj     39      F
 * Basic statistics
 
 ---
-
-## ✅ Submission Checklist
-
-* [x] Working CLI program
-* [x] Manual and CSV input
-* [x] Statistical analysis
-* [x] Grade assignment
-* [x] Pass/Fail filtering
-* [x] Formatted output table
-
----
-
-## 🚀 Future Enhancements (Optional)
-
-* Export results to CSV
-* Add graphical analysis
-* Handle CSV files with headers
-
----
-
-Happy coding and stay curious! ✨
